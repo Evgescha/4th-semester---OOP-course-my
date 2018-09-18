@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"frame","l":"About"},{"p":"frame","l":"Avtor"},{"p":"frame","l":"MainFrame"},{"p":"work","l":"Run"},{"p":"frame","l":"StartPage"},{"p":"frame","l":"Work"}]
